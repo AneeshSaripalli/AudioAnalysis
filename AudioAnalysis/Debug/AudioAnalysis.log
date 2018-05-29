@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\aneesh\desktop\development\c\audioanalysis\audioanalysis\main.c(46): warning C4133: 'function': incompatible types - from 'LPCSTR' to 'LPCWSTR'
+c:\users\aneesh\desktop\development\c\audioanalysis\audioanalysis\main.c(227): warning C4133: 'function': incompatible types - from 'char [24]' to 'LPCWSTR'
+c:\users\aneesh\desktop\development\c\audioanalysis\audioanalysis\main.c(227): warning C4133: 'function': incompatible types - from 'char [6]' to 'LPCWSTR'
+c:\users\aneesh\desktop\development\c\audioanalysis\audioanalysis\main.c(309): warning C4133: '=': incompatible types - from 'const char *' to 'LPCWSTR'
+c:\users\aneesh\desktop\development\c\audioanalysis\audioanalysis\main.c(320): warning C4133: 'function': incompatible types - from 'const char [14]' to 'LPCWSTR'
+c:\users\aneesh\desktop\development\c\audioanalysis\audioanalysis\main.c(321): warning C4133: 'function': incompatible types - from 'char [23]' to 'LPCWSTR'
+  AudioAnalysis.vcxproj -> C:\Users\Aneesh\Desktop\Development\C\AudioAnalysis\Debug\AudioAnalysis.exe
+  AudioAnalysis.vcxproj -> C:\Users\Aneesh\Desktop\Development\C\AudioAnalysis\Debug\AudioAnalysis.pdb (Full PDB)

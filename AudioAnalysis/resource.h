@@ -1,0 +1,15 @@
+//
+// Created by Aneesh on 5/23/2018.
+//
+
+#ifndef AUDIOANALYSIS_RESOURCE_H
+#define AUDIOANALYSIS_RESOURCE_H
+
+#define IDR_MYMENU  101
+#define IDI_MYICON  201
+#define IDB_BMP     301
+
+#define ID_FILE_EXIT 9001
+#define ID_STUFF_GO 9002
+
+#endif //AUDIOANALYSIS_RESOURCE_H
